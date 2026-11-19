@@ -8,4 +8,6 @@
 ## Изменить
 Текст, CSS и JavaScript находятся в `index.html`. Зависимостей нет. Учитывается настройка уменьшенного движения.
 
-Репозиторий создан локально; на GitHub и хостинги не опубликован.
+Публичный репозиторий: https://github.com/arturbro6/polya-birthday
+
+Сайт: https://arturbro6.github.io/polya-birthday/ (после включения GitHub Pages).
